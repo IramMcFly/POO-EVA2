@@ -1,0 +1,4 @@
+eva2_24_collections.EVA2_24_Collections
+eva2_24_collections.auto
+eva2_24_collections.perro
+eva2_24_collections.persona
